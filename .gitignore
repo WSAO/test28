@@ -1,0 +1,9 @@
+#忽略所有的.js 文件
+*.js
+#排除base.js
+!base.js
+
+#忽略第三方包目录
+node_modules
+
+test.sh
